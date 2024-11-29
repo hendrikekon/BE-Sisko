@@ -4,7 +4,7 @@ use CMD (Command Prompt) change to the path of the file and paste this:
 
 SET DEBUG=be-sisko:* & npm start
 
-input example with insomnia:
+input products example with insomnia:
 
 ![image](https://github.com/user-attachments/assets/cf0d53ef-d450-4e88-af80-28e0f3ff4176)
 
